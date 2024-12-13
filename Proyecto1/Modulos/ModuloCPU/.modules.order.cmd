@@ -1,0 +1,1 @@
+savedcmd_/home/moises/Escritorio/REPO/Proyecto1/Modulos/ModuloCPU/modules.order := {   echo /home/moises/Escritorio/REPO/Proyecto1/Modulos/ModuloCPU/moduleMyCPU.o; :; } > /home/moises/Escritorio/REPO/Proyecto1/Modulos/ModuloCPU/modules.order

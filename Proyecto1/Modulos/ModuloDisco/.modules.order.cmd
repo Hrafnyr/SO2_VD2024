@@ -1,0 +1,1 @@
+savedcmd_/home/moises/Escritorio/REPO/Proyecto1/Modulos/ModuloDisco/modules.order := {   echo /home/moises/Escritorio/REPO/Proyecto1/Modulos/ModuloDisco/moduleMyDisco.o; :; } > /home/moises/Escritorio/REPO/Proyecto1/Modulos/ModuloDisco/modules.order

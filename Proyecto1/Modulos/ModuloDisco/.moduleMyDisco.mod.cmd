@@ -1,0 +1,1 @@
+savedcmd_/home/moises/Escritorio/REPO/Proyecto1/Modulos/ModuloDisco/moduleMyDisco.mod := printf '%s\n'   moduleMyDisco.o | awk '!x[$$0]++ { print("/home/moises/Escritorio/REPO/Proyecto1/Modulos/ModuloDisco/"$$0) }' > /home/moises/Escritorio/REPO/Proyecto1/Modulos/ModuloDisco/moduleMyDisco.mod
